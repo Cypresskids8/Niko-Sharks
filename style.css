@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+}
+
+body{
+    background: rgb(0, 84, 130);
+}
+
+#cuteshark{ 
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+#do{
+
+
+}
+
+#title {
+    background-color: rgba(0, 121, 187, 0.648);;
+    text-align: center;
+    font-size: 45px;
+    padding: 10px;
+
+}
+
+
+.navBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    background-color: rgba(154, 220, 255, 0.648);
+    position: sticky;
+    top: 0;
+}
+
+
+.navButton {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(184, 255, 231);
+    font-size: 16px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+
+border: 10px rgb(0, 3, 35) solid;
+padding: 10px;
+height: 25vw;
+
+
+}
+
+
+body {
+    text-align: center;
+}
+
+p {
+    font-size: 2.5vmin;
+    color: white;
+}
+
+a {
+    font-size: 2vmin;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: lightblue
+}
